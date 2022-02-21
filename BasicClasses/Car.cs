@@ -13,6 +13,12 @@ namespace BasicClasses
         {
 
         }
+        public Car(string input_Make, string input_Model, int input_Year)
+        {
+            make = input_Make;
+            model = input_Model;
+            year = input_Year;
+        }
         //Fields
         //Properties
         //Methods
