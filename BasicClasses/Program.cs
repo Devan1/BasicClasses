@@ -10,6 +10,7 @@ namespace BasicClasses
             myCar.make = "Toyota";
             myCar.model = "Tundra";
             myCar.year = 2006;
+
             Console.WriteLine(myCar.year);
             Console.WriteLine(myCar.make);
             Console.WriteLine(myCar.model);           
